@@ -5,12 +5,12 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║ Name       : The Burst Builder                              ║
-║ Class      : AI-Augmented Full-Stack Tinkerer               ║
-║ Subclass   : Rapid Systems Prototyper                       ║
-║ Alignment  : Chaotic Practical                              ║
-║ Level      : 18                                             ║
-║ Title      : The Practical Architect                        ║
+║ Name       : The Burst Builder                               ║
+║ Class      : AI-Augmented Full-Stack Tinkerer                ║
+║ Subclass   : Rapid Systems Prototyper                        ║
+║ Alignment  : Chaotic Practical                               ║
+║ Level      : 18                                              ║
+║ Title      : The Practical Architect                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -110,8 +110,6 @@
 
 > A practical engineer who thrives in chaos, ships under uncertainty,
 > and turns scattered ideas into working systems before most people finish planning.
-
-
 
 <!--
 **RaresKeY/RaresKeY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
