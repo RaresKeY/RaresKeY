@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # The Burst Builder
 > `Character Sheet // Developer RPG Profile`
 
