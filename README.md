@@ -98,7 +98,7 @@
 | `Observability +1` | Speeds diagnosis and tuning after release. |
 | `Refactor Timing +1` | Lowers churn by choosing cleaner stabilization windows. |
 
-## Quest Log (Recommended)
+## Quest Log
 
 - `Main Quest` : Build fast without compounding hidden instability.
 - `Side Quest` : Convert recurring fixes into regression tests.
