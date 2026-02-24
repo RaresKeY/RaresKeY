@@ -7,7 +7,7 @@
 ║ Class      : AI-Augmented Full-Stack Tinkerer                ║
 ║ Subclass   : Rapid Systems Prototyper                        ║
 ║ Alignment  : Chaotic Practical                               ║
-║ Level      : 26                                              ║
+║ Level      : 18                                              ║
 ║ Title      : The Practical Architect                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
