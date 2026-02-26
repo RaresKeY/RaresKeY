@@ -1,4 +1,4 @@
-# The Burst Builder
+## The Burst Builder
 > `AI-Augmented Full-Stack Tinkerer` · `Chaotic Practical` · **Lv.18** — *Practical Architect*
 
 **Build style:** spike → iterate → stabilize  
