@@ -9,4 +9,4 @@
 **Passives:** `Burst Mode` · `Tool Whisperer` · `Adaptive Refactor` · `Prototype Courage` · `Patch Reflex`  
 **Active:** `Ship MVP` · `Hotfix Chain` · `Scope Pivot` · `Architecture Draft`
 
-**Quests:** main: speed w/o hidden instability · side—fixes → regression tests
+**Quests:** main[ ] speed w/o hidden instability · side[✅] fixes → regression tests
