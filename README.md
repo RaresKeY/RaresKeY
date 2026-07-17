@@ -9,4 +9,7 @@
 **Passives:** `Burst Mode` · `Tool Whisperer` · `Adaptive Refactor` · `Prototype Courage` · `Patch Reflex`  
 **Active:** `Ship MVP` · `Hotfix Chain` · `Scope Pivot` · `Architecture Draft`
 
-**Quests:** `main` speed w/o hidden instability · `side` deepen code-review pipelines and bug-finding depth
+**Quests:**  
+`main` turn burst-speed prototypes into stable, transferable systems  
+`side` deepen code-review pipelines and bug-finding depth  
+`cleared` fixes → regression tests · mapped Odysseus into specs, trackers, and Star Map
