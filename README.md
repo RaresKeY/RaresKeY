@@ -10,6 +10,5 @@
 **Active:** `Ship MVP` · `Hotfix Chain` · `Scope Pivot` · `Architecture Draft`
 
 **Quests:**  
-`main` turn burst-speed prototypes into stable, transferable systems  
-`side` deepen code-review pipelines and bug-finding depth  
-`cleared` fixes → regression tests · mapped Odysseus into specs, trackers, and Star Map
+`main` Game Jams
+`side` Coffee Jam, Browser Jam 5, Bezi Jam
